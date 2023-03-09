@@ -1,13 +1,17 @@
 \contentsline {part}{\numberline {I}Introduction To Logic}{9}{part.1}%
 \contentsline {chapter}{\numberline {1}Logic as a field of study}{11}{chapter.1}%
 \contentsline {section}{\numberline {1.1}Motivation}{11}{section.1.1}%
-\contentsline {chapter}{\textcolor {ocre}{Bibliography}}{13}{chapter*.4}%
-\contentsline {section}{Articles}{13}{chapter*.4}%
-\contentsline {section}{Books}{13}{chapter*.4}%
-\contentsline {chapter}{\textcolor {ocre}{Index}}{15}{section*.5}%
-\contentsline {chapter}{Appendices}{15}{section*.6}%
-\contentsline {chapter}{\numberline {A}Appendix Chapter Title}{15}{appendix.a.A}%
-\contentsline {section}{\numberline {A.1}Appendix Section Title}{15}{section.a.A.1}%
-\contentsline {chapter}{\numberline {B}Appendix Chapter Title}{17}{appendix.a.B}%
-\contentsline {section}{\numberline {B.1}Appendix Section Title}{17}{section.a.B.1}%
+\contentsline {part}{\numberline {II}Propositional Logic}{13}{part.2}%
+\contentsline {chapter}{\numberline {2}Introduction}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}History}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Features}{15}{section.2.2}%
+\contentsline {chapter}{\textcolor {ocre}{Bibliography}}{17}{chapter*.4}%
+\contentsline {section}{Articles}{17}{chapter*.4}%
+\contentsline {section}{Books}{17}{chapter*.4}%
+\contentsline {chapter}{\textcolor {ocre}{Index}}{19}{section*.5}%
+\contentsline {chapter}{Appendices}{19}{section*.6}%
+\contentsline {chapter}{\numberline {A}Appendix Chapter Title}{19}{appendix.a.A}%
+\contentsline {section}{\numberline {A.1}Appendix Section Title}{19}{section.a.A.1}%
+\contentsline {chapter}{\numberline {B}Appendix Chapter Title}{21}{appendix.a.B}%
+\contentsline {section}{\numberline {B.1}Appendix Section Title}{21}{section.a.B.1}%
 \contentsfinish 
