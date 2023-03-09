@@ -1,0 +1,13 @@
+\contentsline {part}{\numberline {I}Introduction To Logic}{9}{part.1}%
+\contentsline {chapter}{\numberline {1}Logic as a field of study}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Motivation}{11}{section.1.1}%
+\contentsline {chapter}{\textcolor {ocre}{Bibliography}}{13}{chapter*.4}%
+\contentsline {section}{Articles}{13}{chapter*.4}%
+\contentsline {section}{Books}{13}{chapter*.4}%
+\contentsline {chapter}{\textcolor {ocre}{Index}}{15}{section*.5}%
+\contentsline {chapter}{Appendices}{15}{section*.6}%
+\contentsline {chapter}{\numberline {A}Appendix Chapter Title}{15}{appendix.a.A}%
+\contentsline {section}{\numberline {A.1}Appendix Section Title}{15}{section.a.A.1}%
+\contentsline {chapter}{\numberline {B}Appendix Chapter Title}{17}{appendix.a.B}%
+\contentsline {section}{\numberline {B.1}Appendix Section Title}{17}{section.a.B.1}%
+\contentsfinish 
